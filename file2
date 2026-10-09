@@ -1,2 +1,6 @@
 This is the content of File 2
+<<<<<<< HEAD
 This line is only added to Master Branch, and this too also in the Master Branch
+=======
+This line is only added to Master Branch, but this is from Dev Branch
+>>>>>>> dev
